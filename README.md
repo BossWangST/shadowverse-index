@@ -27,7 +27,7 @@ https://github.com/Nao-desu/shadowverse-index
     ```
 2. 安装依赖：
 
-    到HoshinoBot\hoshino\modules\uma_plugin目录下，管理员方式打开powershell
+    到HoshinoBot\hoshino\modules\shadowverse-index目录下，管理员方式打开powershell
     ```
     pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple --user
     ```
@@ -35,6 +35,6 @@ https://github.com/Nao-desu/shadowverse-index
 
 4. 下载图片资源(约4GB)，有两种选择：
 - 启动update.bat，可以自动下载
-- [百度网盘下载](https://pan.baidu.com/s/1L6QglA5ICrte_JzD0ffEVA?pwd=szbb),下载完后将图片解压到pic文件夹下,并启动update.bat确认资源完整性
+- [百度网盘下载](https://pan.baidu.com/s/1L6QglA5ICrte_JzD0ffEVA?pwd=szbb),下载完后将图片解压到shadowverse-index/pic文件夹下,并启动update.bat确认资源完整性
 
 5. 重启hoshino
