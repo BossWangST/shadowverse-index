@@ -1,0 +1,1 @@
+start cmd /K "py -c "import get_card;get_card.get_info()""
